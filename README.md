@@ -1,7 +1,3 @@
-Based on the analysis of your **PH-Salon-Manager** project, here is a professional, commercial-grade `README.md` file. This is designed to make your repository look reliable to stakeholders and clear for other developers.
-
----
-
 # PH-Salon-Manager
 
 **PH-Salon-Manager** is a high-performance, mobile-first salon management solution built with **React Native (Expo)** and a **Node.js/TypeScript** backend. Designed for commercial reliability, it streamlines appointment booking, staff management, and inventory tracking with enterprise-grade security.
